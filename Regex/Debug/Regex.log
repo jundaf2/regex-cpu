@@ -1,0 +1,3 @@
+﻿  Regex.cpp
+C:\Users\Junda Feng\source\repos\Regex\Regex\Regex.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Regex.vcxproj -> C:\Users\Junda Feng\source\repos\Regex\Debug\Regex.exe
